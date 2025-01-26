@@ -4,7 +4,8 @@ providing significant support for multi-source close-range image stitching and d
 
 Overview
 ===
-Yu Wang^1^, Shichao Jin^1^*, Ke Wang^1^, Shan Xu^1^, Yanjun Su^2^, Qinghua Guo^3^, Dong Jiang^1^, Yanfeng Ding^1^
+Yu Wang<sup>1</sup>, Shichao Jin<sup>1</sup>*, Ke Wang<sup>1</sup>, Shan Xu<sup>1</sup>, Yanjun Su<sup>2</sup>, Qinghua Guo<sup>3</sup>, Dong Jiang<sup>1</sup>, Yanfeng Ding<sup>1</sup>
+
 1 Engineering Research Center of Plant Phenotyping, Ministry of Education, Academy for Advanced Interdisciplinary Studies, Collaborative Innovation Centre for Modern Crop Production co-sponsored by Province and Ministry, State Key Laboratory of Crop Genetics and Germplasm Enhancement, Jiangsu Key Laboratory of Soybean Biotechnology and Intelligent Breeding, Zhongshan Biological Breeding Laboratory, Nanjing Agricultural University, Nanjing 210095, China.
 
 2 State Key Laboratory of Vegetation and Environmental Change, Institute of Botany, Chinese Academy of Sciences, Beijing 100093, China
