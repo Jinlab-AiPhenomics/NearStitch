@@ -28,6 +28,13 @@ The Visualization results of NearStitch
 ===
 
 
+Installation of NearStitch
+===
+For installation instructions, please refer to
+
+Usage
+===
+
 
 License
 ===
